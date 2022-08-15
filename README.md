@@ -1,9 +1,9 @@
 # Ciencia de Datos
 
 + M1:
-  + S1: Presentacion
-  + S2: Tipos de Datos
-  + S3: Funciones, IF, FOR
+  + S1: Tipos de Datos
+  + S2: Funciones, Estructuras
+  + S3: IF, FOR
   + S4: Pandas
   + S5: Filtrar y Agrupar
   + S6: Visualizacion
@@ -13,4 +13,4 @@
   + S9: Variables Categoricas
   + S10: Regresion Lineal
   + S11: Regresion Lineal Multiple
-  + S12: GIT
+  + S12: Presentacion
