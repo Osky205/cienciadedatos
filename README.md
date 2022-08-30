@@ -9,7 +9,7 @@
 - S5: Filtrar y Agrupar
 - S6: Visualizacion
 
-## Regresion Lineal
+## Preprocesamiento de datos y Regresion Lineal
 
 - S7: Analisis Exploratorio
 - S8: Datos Nulos
