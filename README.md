@@ -1,6 +1,6 @@
 # Ciencia de Datos
 
-## Introduccion a python para el analisis de datos
+## M1 Introduccion a python para el analisis de datos
 
 - S1: Presentacion
 - S2: Tipos de Datos
@@ -9,7 +9,7 @@
 - S5: Filtrar y Agrupar
 - S6: Visualizacion
 
-## Preprocesamiento de datos y Regresion Lineal
+## M2 Preprocesamiento de datos y Regresion Lineal
 
 - S7: Analisis Exploratorio
 - S8: Datos Nulos
