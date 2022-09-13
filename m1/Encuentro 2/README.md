@@ -1,7 +1,6 @@
 # Estructuras de datos
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PfpljcOVYRQDEZBxM-Hgyj98BU-65MXB)
-
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PfpljcOVYRQDEZBxM-Hgyj98BU-65MXB](https://drive.google.com/file/d/1PfpljcOVYRQDEZBxM-Hgyj98BU-65MXB/view?usp=sharing))
 
 ## Listas
 
