@@ -1,8 +1,14 @@
 # Estructuras de datos
 
 ## Listas
+
+milista = ['uva','mandarina', 'kiwi']
+
 ## Diccionarios
-## Objetos
+
+midiccionario = { 'frutas' : ['uva','mandarina', 'kiwi'], 'comidas' : ['milanesa','pizza','asado'] } 
+
+
 
 
 # Ejercitación de Tipos de datos:
