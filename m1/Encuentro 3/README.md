@@ -1,5 +1,7 @@
 # Estructuras de Control
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1r2eZMzhAyC6TQvStuiJu0cXDJ4EceXny/view?usp=sharing)
+
 ## Estructuras de control condicionales
 
 Las estructuras de control condicionales son muy útiles para decidir qué sección de código se ejecuta dado el valor de las variables (llamado estado del programa) en un determinado momento.
