@@ -2,12 +2,14 @@
 
 ## Listas
 
+```python
 milista = ['uva','mandarina', 'kiwi']
-
+```
 ## Diccionarios
 
+```python
 midiccionario = { 'frutas' : ['uva','mandarina', 'kiwi'], 'comidas' : ['milanesa','pizza','asado'] } 
-
+```
 
 
 
