@@ -28,3 +28,16 @@ El comando for necesita de dos elementos: un objeto que pueda ser iterable, como
 for item in lista:
   algunCodigo
 ```
+
+---
+
+## Ejercicios
+
+
+- Calculen la suma de los primeros 200 números pares.
+
+- Crea un condicional que si dos números son distintos, imprima "son distintos". (distinto es !=)
+
+- Crea una lista de amigos/as/es y crea una iteración que permita contar la cantidad de personas en la lista.
+
+- Crea una lista de números y una iteración que imprima en cada caso el número multiplicado por -1
