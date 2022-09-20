@@ -58,3 +58,7 @@ Notar nuevamente los dos puntos `:` y la identacion.
 - Crea una lista de amigos/as/es y crea una iteración que permita contar la cantidad de personas en la lista.
 
 - Crea una lista de números y una iteración que imprima en cada caso el número multiplicado por -1
+
+- Crear una función que dados 2 números (parámetros), los sume (def).
+
+- Crea una función que reciba una lista de números y de como resultado la multiplicación de todos ellos.
