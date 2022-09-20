@@ -31,9 +31,21 @@ for item in lista:
 
 ## Funciones
 
-
-
 <img src="https://camo.githubusercontent.com/d4ab80aae7ca83650bae0c68e5e585e7df43a07747813b78f63d5e4a4322cf1f/68747470733a2f2f736361757365792e6769746875622e696f2f6173736574732f696d616765732f746f617374657246756e6374696f6e4469616772616d2e6a7067" width="600px">
+
+Las funciones son lineas de código, enfocadas en resolver un problema específico. En python podemos crear nuestras propias funciones usando la siguiente sintaxis:
+
+```python
+def nombreFuncion(parametro_1, parametro_2):
+  *codigo*
+  *codigo*
+  ...
+  *mas codigo*
+  return resultado
+```
+
+Notar nuevamente los dos puntos `:` y la identacion.
+
 ---
 
 ## Ejercicios
