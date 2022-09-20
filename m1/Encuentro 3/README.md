@@ -36,7 +36,7 @@ for item in lista:
 Las funciones son lineas de código, enfocadas en resolver un problema específico. En python podemos crear nuestras propias funciones usando la siguiente sintaxis:
 
 ```python
-def nombreFuncion(panblanco):
+def nombrefuncion(panblanco):
   *codigo*
   *codigo*
   ...
