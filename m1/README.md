@@ -2,7 +2,8 @@
 
 - S1: Presentacion
 - S2: Tipos de Datos
-- S3: Funciones, IF, FOR
-- S4: Pandas
-- S5: Filtrar y Agrupar
-- S6: Visualizacion
+- S3: IF, FOR
+- S4: Funciones
+- S5: Pandas 
+- S6: Filtrar y Visualizacion
+
