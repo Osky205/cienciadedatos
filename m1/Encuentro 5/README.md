@@ -1,3 +1,11 @@
+# Pandas, filtrar y visualizar
+
+
+
+[![Open In Colab](https://drive.google.com/file/d/1PP3mCBeLQeHFsg3Xi36N5VHeqyalThyl/view?usp=sharing)
+
+[Descarga archivo csv](https://drive.google.com/file/d/1vH2ym59HCkPSgt40f5cdy5sTSaz0CFUF/view?usp=sharing)
+
 # Indexado
 
 Como con las listas nos va interesar visualizar solo algunos elementos de nuestra tabla. Empecemos aprendiendo como visualizar alguna columna en particular:
