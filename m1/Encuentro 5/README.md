@@ -2,7 +2,7 @@
 
 
 
-[![Open In Colab](https://drive.google.com/file/d/1PP3mCBeLQeHFsg3Xi36N5VHeqyalThyl/view?usp=sharing)
+![Open In Colab](https://drive.google.com/file/d/1PP3mCBeLQeHFsg3Xi36N5VHeqyalThyl/view?usp=sharing)
 
 [Descarga archivo csv](https://drive.google.com/file/d/1vH2ym59HCkPSgt40f5cdy5sTSaz0CFUF/view?usp=sharing)
 
