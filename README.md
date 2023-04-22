@@ -1,20 +1,48 @@
 # Ciencia de Datos
 
-## M1 Introduccion a python para el analisis de datos
+## M0 Introduccion a python para el analisis de datos
 
-- S1: Presentacion
-- S2: Tipos de Datos
-- S3: Funciones, IF, FOR
-- S4: Pandas
-- S5: Filtrar y Agrupar
-- S6: Visualizacion
+- Tipos de Datos
+- Estructuras de Control
+- Funciones
+- Clases
+- Librerias
 
-## M2 Preprocesamiento de datos y Regresion Lineal
+## M1 Preprocesamiento de datos y Analisis Exploratorio
 
-- S7: Analisis Exploratorio
-- S8: Datos Nulos
-- S9: Variables Categoricas
-- S10: Regresion Lineal
-- S11: Regresion Lineal Multiple
-- S12: GIT
+- Datos Nulos
+- Variables Categoricas
+- Outliers
+- Visualizacion
+
+## M2 Aprendizaje Automatico Supervisado (Machine Learning)
+
+- Regresion Lineal
+- KNN
+- CART
+
+## M3 Validacion de Modelos
+- Metricas Regresion
+- Metricas Clasificacion
+
+## M4 Optimizacion de modelos
+- Bias/Variance 
+- Cross-Validation
+
+## M5 Aprendizaje Automatico No Supervisado (Machine Learning)
+- Clustering
+- Reduccion Dimensionalidad
+
+## M6 Machine Learning Avanzado
+- Bagging
+- Boosting
+- Redes Neuronales
+
+## M7 Explicabilidad
+- LIME
+- SHAP
+
+## M8 MLOps
+- Flask
+- CI/CD en AWS
 
