@@ -8,6 +8,8 @@
 - Clases
 - Librerias
 
+Este modulo lo encontras [aca](https://github.com/carabedo/cienciadedatos/tree/main/M0)
+
 ## M1 Preprocesamiento de datos y Analisis Exploratorio
 
 - Datos Nulos
